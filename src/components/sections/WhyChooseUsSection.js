@@ -36,7 +36,7 @@ export default function WhyChooseUsSection() {
             Why Choose Us
           </h2>
           <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
-            We're committed to making your Bali experience exceptional through personalized service and attention to detail.
+            We&apos;re committed to making your Bali experience exceptional through personalized service and attention to detail.
           </p>
         </motion.div>
 

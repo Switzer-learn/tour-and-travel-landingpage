@@ -56,7 +56,7 @@ export default function Footer() {
               Bali Tours & Travel
             </h3>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              Discover Bali's magic with our expertly crafted tours. We're your trusted partner 
+              Discover Bali&apos;s magic with our expertly crafted tours. We&apos;re your trusted partner 
               for unforgettable experiences in the Island of the Gods.
             </p>
             

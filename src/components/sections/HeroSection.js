@@ -26,7 +26,7 @@ export default function HeroSection() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6"
         >
-          Discover Bali's Magic, One Journey at a Time
+          Discover Bali&apos;s Magic, One Journey at a Time
         </motion.h1>
         
         <div className="flex justify-center mb-8">
@@ -36,7 +36,7 @@ export default function HeroSection() {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="mb-8 max-w-2xl mx-auto opacity-90 text-center text-lg md:text-xl text-gray-100"
         >
-          Tailored tours to Bali's most iconic destinations with experienced guides, 
+          Tailored tours to Bali&apos;s most iconic destinations with experienced guides, 
           comfortable transport, and unforgettable memories.
         </motion.p>
         </div>

@@ -61,7 +61,7 @@ export default function FeaturedToursSection() {
             Featured Tours
           </h2>
           <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
-            Explore Bali's most stunning destinations with our carefully crafted tour packages designed for unforgettable experiences.
+            Explore Bali&apos;s most stunning destinations with our carefully crafted tour packages designed for unforgettable experiences.
           </p>
         </motion.div>
 

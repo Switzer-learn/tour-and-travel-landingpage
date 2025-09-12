@@ -5,7 +5,7 @@ import { MessageCircle } from 'lucide-react';
 
 export default function WhatsAppButton() {
   const whatsappNumber = "+6281234567890"; // Replace with actual WhatsApp number
-  const message = "Hi! I'm interested in your Bali tour packages. Can you help me?";
+  const message = "Hi! I&apos;m interested in your Bali tour packages. Can you help me?";
   
   const handleWhatsAppClick = () => {
     const encodedMessage = encodeURIComponent(message);

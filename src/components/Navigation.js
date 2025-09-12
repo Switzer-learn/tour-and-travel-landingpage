@@ -58,7 +58,7 @@ export default function Navigation() {
               <p className={`text-xs transition-colors duration-300 ${
                 isScrolled ? 'text-gray-600' : 'text-gray-200'
               }`}>
-                Discover Bali's Magic
+                Discover Bali&apos;s Magic
               </p>
             </div>
           </motion.div>

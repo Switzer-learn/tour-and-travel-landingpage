@@ -26,7 +26,7 @@ export default function BookingCTASection() {
           </h2>
           <p className="text-lg md:text-xl text-white/90 max-w-2xl mx-auto mb-8">
             Book today and let us handle the rest. From the moment you arrive until your departure, 
-            we'll ensure every detail is perfect for your unforgettable Bali experience.
+            we&apos;ll ensure every detail is perfect for your unforgettable Bali experience.
           </p>
           
           <motion.button
