@@ -5,7 +5,7 @@ import { Calendar, Phone, Mail } from 'lucide-react';
 
 export default function BookingCTASection() {
   return (
-    <section className="py-16 md:py-20 bg-gradient-to-br from-orange-500 to-orange-600 relative overflow-hidden">
+    <section className="w-full py-16 md:py-20 bg-gradient-to-br from-orange-500 to-orange-600 relative overflow-hidden">
       {/* Background decoration */}
       <div className="absolute inset-0 opacity-10">
         <div className="absolute top-10 left-10 w-32 h-32 bg-white rounded-full" />

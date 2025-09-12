@@ -57,7 +57,7 @@ const testimonials = [
 export default function TestimonialsSection() {
   return (
     <section 
-      className="py-16 md:py-20 bg-white relative"
+      className="py-16 md:py-20 bg-white relative w-full overflow-hidden"
       style={{
         backgroundImage: 'url(/images/testimonial_bg.png)',
         backgroundSize: 'cover',

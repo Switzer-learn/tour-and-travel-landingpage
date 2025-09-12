@@ -13,7 +13,7 @@ import {
 
 export default function Home() {
   return (
-    <div data-theme="bali" className="min-h-screen bg-white">
+    <div data-theme="bali" className="min-h-screen max-w-screen bg-white">
       <Navigation />
       <main>
         <section id="home">

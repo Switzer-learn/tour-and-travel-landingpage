@@ -48,7 +48,7 @@ const tours = [
 
 export default function FeaturedToursSection() {
   return (
-    <section className="py-16 md:py-20 bg-gray-50">
+    <section className="w-full py-16 md:py-20 bg-gray-50 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
